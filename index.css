@@ -1,0 +1,13 @@
+.btn-primary{
+    color: white;
+    background-color:#8d81ac;
+    border-color:#8d81ac;
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+}
